@@ -1,0 +1,25 @@
+nav {
+  background-color: #334a60;
+  color: white;
+}
+
+.header {
+  background-color: #444469;
+}
+.btn-green {
+  background-color: #00d363;
+}
+
+footer {
+  color: white;
+  background-color: #001d38;
+}
+footer a {
+  color: white;
+}
+.experienced {
+  background-image: url(bg.webp);
+}
+.expJob {
+  background-color: #26317f;
+}
